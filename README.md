@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abeniyirgalem.github.io/ETHIO-CYBERGUARD/"><img src="https://img.shields.io/badge/⚡_Live_SOC_Demo-Active_Online-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Live Demo" /></a>
+  <a href="https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/"><img src="https://img.shields.io/badge/⚡_Live_SOC_Demo-Active_Online-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Live Demo" /></a>
   <a href="https://drive.google.com/file/d/1rHPkKjv6WIcTSQvD7jWhntDAEWoZqex3/view?usp=sharing"><img src="https://img.shields.io/badge/🎬_Video_Demo-Watch_Walkthrough-FF0055?style=for-the-badge&logo=googledrive&logoColor=white" alt="Video Demo" /></a>
   <img src="https://img.shields.io/badge/Defense_Status-DEFCON_2-FF1744?style=for-the-badge" alt="DEFCON 2" />
   <img src="https://img.shields.io/badge/AI_Engine-7_Specialized_Agents-9333EA?style=for-the-badge&logo=openai" alt="7 AI Agents" />
@@ -50,13 +50,13 @@
 </p>
 
 <p align="center">
-  <a href="https://abeniyirgalem.github.io/ETHIO-CYBERGUARD/">
+  <a https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/">
     <img src="./docs/images/platform-overview.png" alt="ETHIO-CYBERGUARD Centralized Threat Detection & AI Investigation Platform" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abeniyirgalem.github.io/ETHIO-CYBERGUARD/">🌐 <strong>Explore Live Interactive Demo</strong></a> &nbsp;&bull;&nbsp;
+  <a https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/">🌐 <strong>Explore Live Interactive Demo</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://drive.google.com/file/d/1rHPkKjv6WIcTSQvD7jWhntDAEWoZqex3/view?usp=sharing">🎥 <strong>Watch Video Demonstration (Google Drive)</strong></a>
 </p>
 
@@ -356,7 +356,7 @@ npm --prefix apps/web run build
 | 2 | **Yonas Abadi** | `CTC-7422-26` | Contributor |
 | 3 | **Abenezer Yirgalem** ([@AbeniYirgalem](https://github.com/AbeniYirgalem)) | `CTC-041-26` | Repository Administrator & Co-Lead |
 | 4 | **FikreMariam Worku** | `CTC-7267-26` | Team Member |
-| 5 | **Remedan Hante** | `CTC-7445-26` | Team Member |
+| 5 | **Remedan Hante** | `CTC-7445-26` | Contributor |
 | 6 | **Eyerusalem Solomon** | `CTC-6739-26` | Team Member |
 
 ---
