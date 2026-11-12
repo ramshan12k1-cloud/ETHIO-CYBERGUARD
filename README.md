@@ -193,9 +193,9 @@ Watch the complete end-to-end platform demonstration showcasing real-time teleme
 ### 🌐 Live Interactive SOC Dashboard
 Test the interactive SOC Dashboard, Phishing Forensics, Brand Defense, and Attack Surface Scanner directly in your browser:
 
-👉 **[Launch Active SOC Dashboard](https://abeniyirgalem.github.io/ETHIO-CYBERGUARD/)** (`https://abeniyirgalem.github.io/ETHIO-CYBERGUARD/`)
+👉 **[Launch Active SOC Dashboard](https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/)** (`https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD//`)
 
-*(Deployment Mirror: [`https://mr-nobody-anonymous.github.io/ETHIO-CYBERGUARD/`](https://mr-nobody-anonymous.github.io/ETHIO-CYBERGUARD/))*
+*(Deployment Mirror: [`https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/`](https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/))*
 
 > [!TIP]
 > **Interactive Client Mode**: The live demonstration runs in zero-friction browser mode with real-time simulated telemetry feeds (4,200+ EPS), interactive ransomware and phishing scenario injection, localized lure heuristics, and AI incident investigation. For production log ingestion with live PostgreSQL persistence, run `docker compose up`.
