@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/">🌐 <strong>Explore Live Interactive Demo</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://ramshan12k1-cloud.github.io/ETHIO-CYBERGUARD/">🌐 <strong>Explore Live Interactive Demo</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://drive.google.com/file/d/1rHPkKjv6WIcTSQvD7jWhntDAEWoZqex3/view?usp=sharing">🎥 <strong>Watch Video Demonstration (Google Drive)</strong></a>
 </p>
 
