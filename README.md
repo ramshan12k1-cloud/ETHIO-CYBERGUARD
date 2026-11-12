@@ -347,7 +347,33 @@ npm --prefix apps/web run build
 
 ---
 
-## 👥 13. Project Team & Contributors
+## 🛠️ 13. My Contributions
+
+ I contributed to several areas of the platform, including frontend development, backend functionality, detection logic, system integration, and deployment.
+
+### 🎨 Frontend Sign-in Interface
+
+I worked on improving the frontend sign-in interface, particularly the sign-in form displayed on the public landing page. My contribution involved working on the sign-in modal preview to improve the user interface and provide a clearer, more user-friendly sign-in experience.
+
+### 🔍 Sigma Detection Engine – Condition Evaluation
+
+I worked on improving the Sigma detection engine's condition evaluation functionality. My contribution focused on supporting logical operators such as `AND`, `OR`, and `NOT`, handling grouped conditions using parentheses, and supporting selection-based conditions such as `2 of selection_*`. I also worked on unit tests to verify that these conditions are evaluated correctly.
+
+### ⚙️ Backend Development
+
+I contributed to the backend development of ETHIO-CYBERGUARD by working on selected server-side components and functionality. My work involved implementing and improving backend components that support the platform's core operations.
+
+### 🔗 Frontend–Backend Integration
+
+I worked on integrating the frontend with the backend, connecting user interface components with server-side functionality. This helped enable communication between the frontend and backend services and allowed the application to interact with backend-provided data and functionality.
+
+🧪 Testing & Quality Assurance
+
+I also contributed extensively to testing and quality assurance across the platform. I worked on testing different components and functionalities, identifying and fixing issues, and improving the reliability of the application. I was involved in running and verifying automated tests across most parts of the platform to ensure that the implemented features worked correctly and that the test suite passed successfully.
+---
+
+
+## 👥 14. Project Team & Contributors
 <a id="-13-project-team--contributors"></a>
 
 | # | Full Name | Student ID | Project Role |
