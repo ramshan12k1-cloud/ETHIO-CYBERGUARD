@@ -368,7 +368,6 @@ I contributed to the backend development of ETHIO-CYBERGUARD by working on selec
 I worked on integrating the frontend with the backend, connecting user interface components with server-side functionality. This helped enable communication between the frontend and backend services and allowed the application to interact with backend-provided data and functionality.
 
 🧪 Testing & Quality Assurance
-
 I also contributed extensively to testing and quality assurance across the platform. I worked on testing different components and functionalities, identifying and fixing issues, and improving the reliability of the application. I was involved in running and verifying automated tests across most parts of the platform to ensure that the implemented features worked correctly and that the test suite passed successfully.
 ---
 
